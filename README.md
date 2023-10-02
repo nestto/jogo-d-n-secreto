@@ -13,3 +13,6 @@ Nesse projeto temos um projeto de um jogo que trabalha funções do JavaScript n
 - Foi utilizado uma Responsive Voice para leitura de texto da página. 
 
 ### 📁 Acesso ao projeto
+
+<img src="https://github.com/nestto/jogo-d-n-secreto/assets/125527244/5f6200ac-eb9e-472f-af31-cadc43d0717d" width="30%">
+<img src="https://github.com/nestto/jogo-d-n-secreto/assets/125527244/530ed1ae-fd01-43ff-b9d9-9ad4ab7d9d5f" width="30%">
