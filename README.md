@@ -1,4 +1,4 @@
-# jogo-d-n-secreto
+# Jogo do número secreto! 
 Projeto desenvolvido com o curso da Alura para apresentar uma introdução a lógica de programação usando com linguagem o JavaScript.
 ### 🔨 Funcionalidades do projeto
 Nesse projeto temos um projeto de um jogo que trabalha funções do JavaScript na Web. Se trata de uma página onde temos um jogo de advinhar o número secreto.
